@@ -1,9 +1,9 @@
-# Smart Trash With Sensor HCSR-04
-Proyek ini adalah sebuah **tempat sampah pintar** yang dirancang untuk meningkatkan efisiensi dan kenyamanan dalam pengelolaan sampah. Tempat sampah ini dilengkapi dengan **sensor ultrasonik HCSR-04** yang berfungsi untuk mendeteksi keberadaan objek di dekat tutup tempat sampah.
+# Smart Trash With Sensor HC-SR04
+Proyek ini adalah sebuah **tempat sampah pintar** yang dirancang untuk meningkatkan efisiensi dan kenyamanan dalam pengelolaan sampah. Tempat sampah ini dilengkapi dengan **sensor ultrasonik HC-SR04** yang berfungsi untuk mendeteksi keberadaan objek di dekat tutup tempat sampah.
 
 ## **Fitur Utama:**
 
- - **Otomatis Membuka Tutup Tempat Sampah :** Sensor HCSR-04 mendeteksi tangan pengguna yang mendekat pada **jarak kurang dari 7.5cm**, sehingga tutup tempat sampah akan terbuka secara otomatis menggunakan motor servo.
+ - **Otomatis Membuka Tutup Tempat Sampah :** Sensor HC-SR04 mendeteksi tangan pengguna yang mendekat pada **jarak kurang dari 7.5cm**, sehingga tutup tempat sampah akan terbuka secara otomatis menggunakan motor servo.
 
 - **Hemat Energi :** Sistem dirancang untuk hanya aktif saat diperlukan, mengurangi penggunaan daya berlebih.
 
