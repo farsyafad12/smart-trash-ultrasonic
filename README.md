@@ -15,8 +15,7 @@ Proyek ini adalah sebuah **tempat sampah pintar** yang dirancang untuk meningkat
 - 1x Sensor HC-SR04
 - 1x motor servo mg90s
 - 1x Arduino Uno R3 SMD
-- 2x LED Red & Green
-- 2x Resistor 100ohm
+- 1x Traffic Light LED ( Red, Yellow, Green )
 - 1x Buzzer 5v
 - 1x Breadboard 
 - Jumper Cable **[ Secukupnya ]**
